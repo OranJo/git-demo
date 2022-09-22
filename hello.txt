@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 aaaaa master test
-aaaaaa
+aaaaaa hot-fix test
+>>>>>>> hot-fix
 aaaaaa
 aaaaaa
 aaaaaa
